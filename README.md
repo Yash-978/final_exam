@@ -43,14 +43,14 @@ A mobile application for managing your book collection. This app allows users to
 
 
 ### Installation
-<h3 align = "center"> Quotes App</h3>
+
 </div>
 <div> 
  
-   <img src = "https://github.com/user-attachments/assets/479f924e-2289-4110-86fc-1d07bd3c412e"  height=35% width=22%  />
-   <img src = "https://github.com/user-attachments/assets/0ba727be-b4d4-4b40-a8d0-cc7c874e5286"  height=35% width=22%  />
-    <img src = "https://github.com/user-attachments/assets/096b086a-f73c-41de-a7a7-b911fcb64bac"  height=35% width=22%  />
-   <img src = "https://github.com/user-attachments/assets/35ad77ad-0f1a-44a7-843f-1e30281ce9a4"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/479f924e-2289-4110-86fc-1d07bd3c412e"  height=35% width=100%  />
+   <img src = "https://github.com/user-attachments/assets/0ba727be-b4d4-4b40-a8d0-cc7c874e5286"  height=35% width=100%  />
+    <img src = "https://github.com/user-attachments/assets/096b086a-f73c-41de-a7a7-b911fcb64bac"  height=35% width=100%  />
+   <img src = "https://github.com/user-attachments/assets/35ad77ad-0f1a-44a7-843f-1e30281ce9a4"  height=35% width=100%  />
 
 
 
